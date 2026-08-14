@@ -70,56 +70,6 @@ I'm passionate about writing clean, scalable code and creating intuitive user ex
 
 ---
 
-## 🚀 Selected Work
-
-### 🎬 Movie App
-
-**Movie and TV discovery application**
-
-* Led a team project building a full-featured Movie App with Flutter and **BLoC/Cubit** state management.
-* Integrated **TMDB API** to browse real-time movie data, trailers, and detailed content views.
-* Implemented **Firebase Authentication** for secure login.
-* Used **SharedPreferences** for saving favorites.
-* Built responsive, reusable UI components with intuitive navigation using **Salomon Bottom Bar**.
-
-### 👗 Fashion — E-Commerce App
-
-**Full-featured fashion e-commerce application**
-
-* Developed a complete fashion e-commerce app using Flutter and **GetX** for state management.
-* Integrated a **PHP/XAMPP backend** for product management, user authentication, and order processing.
-* Built product listing, filtering, shopping cart, and checkout flow.
-* Applied **Clean Architecture** principles to ensure scalability and maintainability.
-
-### 🤖 Health Snap AI
-
-**AI-powered health analysis application**
-
-* Built an AI-powered mobile application that analyzes food and symptoms using **Gemini API** image analysis.
-* Integrated REST APIs to deliver real-time nutritional insights and health recommendations.
-* Designed an intuitive UI allowing users to snap photos and receive instant health feedback.
-* Implemented **Firebase** for user data storage and authentication.
-
-### 🎵 Sonixy
-
-**Music streaming and discovery application**
-
-* Developed a music streaming app using Flutter with smooth audio playback and playlist management.
-* Integrated music APIs for real-time track discovery, search, and artist browsing.
-* Implemented **BLoC** state management for a responsive and consistent user experience.
-* Designed a modern dark-themed UI with custom audio controls and waveform visualization.
-
-### 📌 Pinspire
-
-**Pinterest-inspired image sharing and inspiration platform**
-
-* Built a Pinterest-inspired app for discovering, saving, and sharing visual inspiration boards.
-* Implemented masonry grid layout for a visually rich and dynamic image browsing experience.
-* Integrated **Firebase Firestore and Storage** for real-time image uploads and board management.
-* Added user authentication, follow system, and personalized content feeds.
-
----
-
 ## 💼 Freelance
 
 I'm currently working as a **Freelance Flutter Developer**, developing cross-platform mobile applications and delivering end-to-end solutions from UI development to backend integration.
@@ -192,14 +142,6 @@ I'm also available for freelance opportunities through **Upwork**.
 </a>
 
 </p>
-
----
-
-## 🎓 Certifications
-
-* **Mobile Using Flutter — ITI (120 hrs)**
-* **Python Programming Basics — MaharaTech / ITI**
-* **Learn HTML & CSS — MaharaTech / ITI**
 
 ---
 
